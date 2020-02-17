@@ -1,0 +1,15 @@
+.results {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: roboto;
+    color: #fff;
+    padding: 20px 15px;
+    width: 89.4%;
+    border-left: 3px solid #0000ff73;
+    background-color: #33b3e4a6;
+}
+
+button  {
+    padding: 5px;
+}
