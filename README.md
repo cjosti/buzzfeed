@@ -34,10 +34,6 @@ Com esse desafio, você aprenderá:
 - Ao terminar de preencher o quiz, exibir o resultado de quantas perguntas o usuário acertou
 - Botão de "Refazer Quiz", que deve resetar as alternativas selecionadas e o resultado
 
-### Exemplo
-
-![](https://codenation-challenges.s3-us-west-1.amazonaws.com/vue-2/1qu3NMV.gif)
-
 ### Atenção
 
 O elemento pai que contém as opções das perguntas **deve** conter um atributo `data-test` com o valor `pergunta`
